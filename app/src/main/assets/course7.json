@@ -1,0 +1,21 @@
+{"name":"斯坦福大学公开课：iPad和iPhone应用开发",
+  "video":1,
+  "id":7,
+  "desc":"最新更新课程，适用于iOS 5。本课程介绍了使用iPhone SDK(软件开发包)建造iPhone平台上的应用程序所需的工具和应用程序接口；使用多点触控技术，为手机等终端设计用户互交界面等技术进行面向对象的设计。其他主题包括：内核动画、bonjour网络、移动终端电量管理和性能测评。预备知识：抽象编程水平的C语言和编程经验。",
+  "location":"斯坦福大学公开课",
+  "img_course":"http://img3.cache.netease.com/video/2012/9/29/20120929151852a5360.jpg",
+  "results": [
+    {"ch_name":"第1集 MVC 和 Objective-C 介绍","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA837D9HB_sd.flv"},
+    {"ch_name":"第2集 我的第一个iOS应用程序","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA837FRVC_sd.flv"},
+    {"ch_name":"第3集 Objective-C","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA837INGH_sd.flv"},
+    {"ch_name":"第4集 视图","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA837HKQB_sd.flv"},
+    {"ch_name":"第5集 协议与手势","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA838A8JN_sd.flv"},
+    {"ch_name":"第6集 多个MVC和延续符","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA838ALI3_sd.flv"},
+
+    {"ch_name":"第7集 iPad+Apps","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA838DNDA_sd.flv"},
+    {"ch_name":"第8集 视图控制器生命周期-图象视图、滚动视图、网络视图","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA838IT6S_sd.flv"},
+    {"ch_name":"第9集 表视图","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA83964G7_sd.flv"},
+    {"ch_name":"第10集 数据块和多线程","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA8397RJ9_sd.flv"},
+    {"ch_name":"第11集 Core Location and Mapkit","url":"http://mov.bn.netease.com/open-movie/nos/flv/2014/10/20/SA8393GRS_sd.flv"}
+  ]
+}

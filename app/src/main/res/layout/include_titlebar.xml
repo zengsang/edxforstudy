@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="46dp"
+    android:background="@color/colorPrimary"
+    android:id="@+id/rl_title_bar">
+
+    <ImageView
+        android:id="@+id/titlebar_left_iv"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:padding="12dp"
+        android:src="@mipmap/ic_back"
+        android:visibility="gone"/>
+    
+    <TextView
+        android:id="@+id/titlebar_left_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:text="LEFT"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/titlebar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:text="标题"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/titlebar_right_iv"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:padding="12dp"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/titlebar_right_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:text="RIGHT"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"/>
+</RelativeLayout>

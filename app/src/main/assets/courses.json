@@ -1,0 +1,40 @@
+{
+  "count": 6,
+  "result": [
+    {
+      "file_name": "course7",
+      "img_course": "http://img3.cache.netease.com/video/2012/9/29/20120929151852a5360.jpg",
+      "name": "斯坦福大学公开课：iPad和iPhone应用开发"
+    },
+    {
+      "file_name": "course6",
+      "img_course": "http://img2.cache.netease.com/video/2014/9/26/20140926154318bdbd2.png",
+      "name": "理工男讨好女友的N种方式"
+    },
+    {
+      "file_name": "course1",
+      "img_course": "http://cqrk.cloudkz.cn/asset-v1:Renwenkejixueyuan+Cloudkz_RWKJ_2015_03_04+2015_T1+type@asset+block@%E6%80%9D%E7%BB%B4.png",
+      "name": "批判性思维"
+    },
+    {
+      "file_name": "course2",
+      "img_course": "http://cqrk.cloudkz.cn/asset-v1:Renwenkejixueyuan+Cloudkz_RWKJ_2015_03_01+2015_T1+type@asset+block@%E6%97%85%E8%A1%8C.png",
+      "name": "带上文化去旅行"
+    },
+    {
+      "file_name": "course3",
+      "img_course": "http://cqrk.cloudkz.cn/asset-v1:Renwenkejixueyuan+Cloudkz_RWKJ_2015_03_02+2015_T1+type@asset+block@%E9%9F%B3%E4%B9%9002.png",
+      "name": "解构音乐---大学生音乐素养入门"
+    },
+    {
+      "file_name": "course4",
+      "img_course": "http://cqrk.cloudkz.cn/asset-v1:Renwenkejixueyuan+Cloudkz_RWKJ_2015_03_03+2015_T1+type@asset+block@%E7%94%9F%E6%B4%BB.png",
+      "name": "生活中的语言学"
+    },
+    {
+      "file_name": "course5",
+      "img_course": "http://cqrk.cloudkz.cn/asset-v1:Renwenkejixueyuan+Cloudkz_RWKJ_2015_03_05+2015_T1+type@asset+block@%E8%B6%B3%E7%90%83.png",
+      "name": "校园足球基础技能"
+    }
+  ]
+}
